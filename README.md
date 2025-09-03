@@ -1,26 +1,10 @@
 # BRAIN-TUMOUR-DETECTION
 
-
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://brain-tumor-detection-sundi.azurewebsites.net/)&nbsp;
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)&nbsp;
-<img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg">&nbsp;
-![GitHub repo size](https://img.shields.io/github/repo-size/Shashank-Sundi/BRAIN-TUMOUR-DETECTION)&nbsp;
-![Lines of code](https://img.shields.io/tokei/lines/github/Shashank-Sundi/BRAIN-TUMOUR-DETECTION?style=flat)
-
-<hr>
-
-## Deployments
-* Azure : http://brain-tumor-detection-sundi.azurewebsites.net/
-
-* Heroku : https://brain-tumor-detection-sundi.herokuapp.com/
-
 <hr>
 
 ## Original Dataset and  Notebooks
 
 * Original Dataset : https://github.com/SartajBhuvaji/Brain-Tumor-Classification-DataSet.git
-
-* Notebook Page : https://shashank-sundi.github.io/BRAIN-TUMOUR-DETECTION/
 
 * Colab Notebook : https://colab.research.google.com/drive/1IjFYHuim8on_1gbiiaBStBpxoe4voB9e?usp=sharing
 
@@ -46,22 +30,9 @@ Brain Tumors are complex. There are a lot of abnormalities in the sizes and loca
 
 <hr>
 
-## Screenshots
-
-### **Upload Brain MRI Scan**
-
-<img src="static\images\mri-home.PNG" alt="FIFA" />
-
-### **The Prediction Page**
-
-<img src="static\images\mri-pred.PNG" alt="FIFA" />
-
-<hr>
-  
 ## Contact
 
-<a href="https://www.linkedin.com/in/shashank-sundi-4b78561b1"> ![alt text](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>&emsp;
-<a href="https://www.instagram.com/shashank_sundi13/">![alt text](https://img.shields.io/badge/Shashank_Sundi-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>&emsp;
-<a href="mailto:sundi.sn@gmail.com">![alt text](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="[https://www.linkedin.com/in/shashank-sundi-4b78561b1](https://www.linkedin.com/in/raghuveer-patil-88178b22a/)"> ![alt text](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>&emsp;
+<a href="mailto:raghuveerpatil1234@gmail.com">![alt text](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 <hr>
